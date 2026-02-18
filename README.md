@@ -15,7 +15,7 @@
 
 ## Current Projects
 
-- 🪼 **[SeeBro](https://github.com/ChrisFeldmeier/seebro)** - Lightweight AI browser automation library for Go
+- 🪼 **[SeeBro](https://github.com/ChrisFeldmeier/seebro)** - Give your AI agent eyes - Lightweight AI browser automation library for Go
 
 ## What I'm Building
 
