@@ -15,6 +15,8 @@
 
 ## Current Projects
 
+> 🧠 20 years of dev experience + AI brain = these projects (mostly AI-generated code, human-guided vision)
+
 - 🪼 **[SeeBro](https://github.com/ChrisFeldmeier/seebro)** - Give your AI agent eyes - Lightweight AI browser automation library for Go
 
 ## What I'm Building
