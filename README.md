@@ -1,6 +1,6 @@
 # Hi, I'm Chris 👋
 
-📍 **🇩🇪 Germany ↔ 🇺🇸 San Francisco ↔ 🇦🇪 Dubai** | 🤖 **AGI Agent Builder** | ⚡ **LLMs Were Just the Beginning**
+**🇩🇪 Germany ↔ 🇺🇸 San Francisco ↔ 📍 🇦🇪 Dubai** | 🤖 **AGI Agent Builder** | ⚡ **LLMs Were Just the Beginning**
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -15,7 +15,7 @@
 
 ## Current Projects
 
-- 🌐 **[SeeBro](https://github.com/ChrisFeldmeier/seebro)** - Lightweight browser automation library for Go
+- 🌐 **[SeeBro](https://github.com/ChrisFeldmeier/seebro)** - Lightweight AI browser automation library for Go
 
 ## What I'm Building
 
