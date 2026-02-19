@@ -19,6 +19,10 @@
 
 - 🪼 **[SeeBro](https://github.com/ChrisFeldmeier/seebro)** - Give your AI agent eyes - Lightweight AI browser automation library for Go
 
+## Current Building Ventures
+
+- ☎️ **[Talkturo](https://talkturo.ai/)** - Scale your company and automate sales with AI. *The easiest way to build AI voice agents.*
+
 ## What I'm Building
 
 - **AGI Agents** - Creating autonomous agents that don't just respond, but actually think and act
