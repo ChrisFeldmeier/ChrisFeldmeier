@@ -23,6 +23,8 @@
 
 - ☎️ **[Talkturo](https://talkturo.ai/)** - Scale your company and automate sales with AI. *The easiest way to build AI voice agents.*
 
+- 🖥️ **[Seemodo](https://seemodo.ai/)** - AI-native full-stack development. From idea to product in minutes: describe your project in natural language or design it visually — Seemodo turns it into a working web app. Text-to-App, Visual Canvas Designer, Website Cloning. *Build complete apps with AI.*
+
 ## What I'm Building
 
 - **AGI Agents** - Creating autonomous agents that don't just respond, but actually think and act
