@@ -17,6 +17,7 @@
 
 > 🧠 20 years of dev experience + AI brain = these projects (mostly AI-generated code, human-guided vision)
 
+- ❒ **OpenCode** - Rewritten in 100% Rust, built for handling massive LLM workloads: fast, safe, and dependency-lean. Minimal, predictable foundation without ecosystem bloat.
 - 🪼 **[SeeBro](https://github.com/ChrisFeldmeier/seebro)** - Give your AI agent eyes - Lightweight AI browser automation library for Go
 
 ## Current Building Ventures
